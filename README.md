@@ -1,6 +1,8 @@
 # FDP
 
-TODO: Write a gem description
+[![Build Status](https://secure.travis-ci.org/av-ast/FDP.png)](http://travis-ci.org/av-ast/FDP)
+[![Code Climate](https://codeclimate.com/badge.png)](https://codeclimate.com/github/av-ast/FDP)
+[![Coverage status](https://coveralls.io/repos/av-ast/FDP/badge.png?branch=master)](https://coveralls.io/r/av-ast/FDP)
 
 ## Installation
 
