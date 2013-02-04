@@ -1,6 +1,6 @@
 # FDP
 
-[![Build Status](https://secure.travis-ci.org/av-ast/FDP.png)](http://travis-ci.org/av-ast/FDP)
+[![Build Status](https://travis-ci.org/av-ast/FDP.png?branch=master)](https://travis-ci.org/av-ast/FDP)
 [![Code Climate](https://codeclimate.com/badge.png)](https://codeclimate.com/github/av-ast/FDP)
 [![Coverage status](https://coveralls.io/repos/av-ast/FDP/badge.png?branch=master)](https://coveralls.io/r/av-ast/FDP)
 
