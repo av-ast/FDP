@@ -1,5 +1,5 @@
 module Kernel
-  def fdp(&block)
+  def future(&block)
     FDP::Future.new(block)
   end
 end
