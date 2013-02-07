@@ -2,6 +2,7 @@
 
 [![Build Status](https://travis-ci.org/av-ast/FDP.png?branch=master)](https://travis-ci.org/av-ast/FDP)
 [![Code Climate](https://codeclimate.com/badge.png)](https://codeclimate.com/github/av-ast/FDP)
+[![Dependency Status](https://gemnasium.com/av-ast/FDP.png)](https://gemnasium.com/av-ast/FDP)
 [![Coverage status](https://coveralls.io/repos/av-ast/FDP/badge.png?branch=master)](https://coveralls.io/r/av-ast/FDP)
 
 ## Installation
